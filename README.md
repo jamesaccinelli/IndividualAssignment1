@@ -1,8 +1,13 @@
 # Individual Assignment 1
 
-Demo Video (includes slide deck): <br>
+Demo Video (includes slide deck): https://youtu.be/ITUc0NZSDBk <br>
 
 Unity Project Download: https://drive.google.com/file/d/1JTHPcyEYJBnbE5uB6PySEYhUh3ux4Y_n/view?usp=sharing <br>
+
+Keybinds In-Build <br>
+1-4 -> Change shaders <br>
+J,K,L for Warm, Cool, and Custom Respectively <br>
+O for Original Colouring <br>
 
 Logic <br>
 Diffuse lighting basis around adding colour to an object. This shader uses the built-in lambert lighting model to enhance the colouring of the object. This is done by attaching the albedo component to the colour’s rgb value. <br>
