@@ -1,4 +1,6 @@
-# IndividualAssignment1
+# Individual Assignment 1
+
+Demo Video (includes slide deck): <br>
 
 Logic <br>
 Diffuse lighting basis around adding colour to an object. This shader uses the built-in lambert lighting model to enhance the colouring of the object. This is done by attaching the albedo component to the colour’s rgb value. <br>
